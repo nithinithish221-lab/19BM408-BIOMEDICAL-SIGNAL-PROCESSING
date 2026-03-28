@@ -38,8 +38,10 @@ h(n)=h_d (n)⋅w(n)
 6.	Plot frequency response
 
 # MATLAB CODE :
+<img width="1079" height="828" alt="image" src="https://github.com/user-attachments/assets/5a4368b5-d9e2-4edc-9d24-ed41a5b00ea5" />
 
 # OUTPUT GRAPH :
+<img width="880" height="1431" alt="image" src="https://github.com/user-attachments/assets/352077e4-58db-4c34-a678-79acf65bb0f9" />
 
 # RESULT :
 The FIR filter was designed using Rectangular window.
